@@ -1,0 +1,15 @@
+﻿1
+00:00:00,000 --> 00:00:02,500
+Welcome to EditVault: The complete motion graphics and video editing toolkit.
+
+2
+00:00:02,600 --> 00:00:05,200
+Over 5,000 open-source assets, cutouts, icons, sound effects, and LUTs.
+
+3
+00:00:05,300 --> 00:00:08,000
+Compatible with Premiere Pro, After Effects, DaVinci Resolve, and CapCut.
+
+4
+00:00:08,100 --> 00:00:11,500
+Royalty-free and ready for commercial and personal video productions.
