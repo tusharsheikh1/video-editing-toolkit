@@ -1,0 +1,10 @@
+# OS files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Claude local settings
+.claude/settings.local.json

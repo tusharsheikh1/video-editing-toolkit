@@ -1,6 +1,6 @@
 ﻿1
 00:00:00,000 --> 00:00:02,500
-Welcome to EditVault: The complete motion graphics and video editing toolkit.
+Welcome to Video Editing Toolkit: The complete motion graphics and video editing suite.
 
 2
 00:00:02,600 --> 00:00:05,200

@@ -1,4 +1,4 @@
-﻿# EditVault — Video Editing & Motion Graphics Toolkit
+﻿# Video Editing Toolkit — Motion Graphics & Asset Suite
 
 The open-source, copyright-free asset vault for video editors, motion designers, and content creators. Contains **6,200+ production-ready assets** compatible with Adobe Premiere Pro, After Effects, DaVinci Resolve, CapCut, and Final Cut Pro.
 

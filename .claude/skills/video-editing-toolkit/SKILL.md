@@ -1,9 +1,9 @@
 ﻿---
-name: editvault
-description: Search, browse, and match motion graphics assets, cutouts, icons, vectors, and overlays from EditVault to video scripts or editing concepts.
+name: video-editing-toolkit
+description: Search, browse, and match motion graphics assets, cutouts, icons, vectors, and overlays from Video Editing Toolkit to video scripts or editing concepts.
 ---
 
-# EditVault Asset Matching & Search Skill
+# Video Editing Toolkit Asset Matching & Search Skill
 
 Use this skill to quickly find, recommend, and match motion design assets, overlays, vectors, audio, and cutouts from the repository for video editing projects and voiceover scripts.
 
