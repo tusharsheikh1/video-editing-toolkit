@@ -1,4 +1,4 @@
-﻿---
+---
 name: video-editing-toolkit
 description: Search, browse, and match motion graphics assets, cutouts, icons, vectors, and overlays from Video Editing Toolkit to video scripts or editing concepts.
 ---
@@ -80,5 +80,5 @@ When the user asks to find assets for a script, topic, or scene:
    | Asset Name | Relative Path | Type | Recommended Cue / Technique |
    |------------|---------------|------|-----------------------------|
    | `money_cash-stacks-fanned.png` | `png-assets/objects/money_cash-stacks-fanned.png` | PNG Cutout | In on "doubled revenue", scale pop |
-   | `riser-heavy-cinematic-01.wav` | `audio/sound-effects/risers-and-fallers/...` | Audio SFX | Sync peak with graphic reveal |
+   | `riser-2s-strong.wav` | `audio/sound-effects/risers-and-fallers/riser-2s-strong.wav` | Audio SFX | Sync peak with graphic reveal |
    | `slay-04-film.cube` | `luts/slay-04-film.cube` | 3D LUT | Apply as Lumetri input LUT |
